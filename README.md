@@ -34,4 +34,5 @@ ocamlopt search2_kmp.ml -o kmp2
 # License
 Spearhead is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
+# 参考文献
 [1]Morten Heine Sørensen, Robert Glück, and Neil D. Jones. A positive supercompiler. *J. Funct. Program.* , Vol. 6, No. 6, pp. 811–838, 1996.
